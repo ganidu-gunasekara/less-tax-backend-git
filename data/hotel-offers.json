@@ -1,0 +1,80 @@
+[
+  {
+    "title": "5⭐ Hotel in KANDY",
+    "original_price": "45,000LKR",
+    "discounted_price": "43,000LKR",
+    "countdown": {
+      "hours": "08",
+      "minutes": "46",
+      "seconds": "25"
+    },
+    "description": "EXPERIENCE 5 STAR LUXURY AMIDST MISTY HILLTOPS",
+    "location": "KANDY",
+    "reviews": 2670,
+    "features": [
+      "private balcony",
+      "free breakfast & dinner",
+      "complimentary spa access"
+    ],
+    "already_purchased": 6,
+    "image_url": "https://dxk1acp76n912.cloudfront.net/images/deals/hdeal1.jpeg"
+  },
+  {
+    "title": "5⭐ Hotel in KANDY",
+    "original_price": "68,000LKR",
+    "discounted_price": "63,000LKR",
+    "countdown": {
+      "hours": "08",
+      "minutes": "46",
+      "seconds": "25"
+    },
+    "description": "STAY 2 NIGHTS AND ENJOY A FULL CULINARY EXPERIENCE",
+    "location": "KANDY",
+    "reviews": 7680,
+    "features": [
+      "Buffet spreads",
+      "street food nights",
+      "20% off a la carte dining"
+    ],
+    "already_purchased": 8,
+    "image_url": "https://dxk1acp76n912.cloudfront.net/images/deals/hdeal2.jpeg"
+  },
+  {
+    "title": "5⭐ Hotel in GALLE",
+    "original_price": "80,000LKR",
+    "discounted_price": "73,000LKR",
+    "countdown": {
+      "hours": "08",
+      "minutes": "46",
+      "seconds": "25"
+    },
+    "description": "STAY 3 NIGHTS , PAY FOR 2",
+    "location": "KANDY",
+    "reviews": 7680,
+    "features": [
+      "Enjoy complimentary dinner on your final night",
+      "free room upgrade"
+    ],
+    "already_purchased": 6,
+    "image_url": "https://dxk1acp76n912.cloudfront.net/images/deals/hdeal3.jpeg"
+  },
+  {
+    "title": "5⭐ Hotel in GALLE",
+    "original_price": "15,000LKR",
+    "discounted_price": "12,000LKR",
+    "countdown": {
+      "hours": "08",
+      "minutes": "46",
+      "seconds": "25"
+    },
+    "description": "3000LKR OFF INTERNATIONAL BUFFET FOR 2",
+    "location": "COLOMBO",
+    "reviews": 7680,
+    "features": [
+      "International Buffet for 2",
+      "Valid from 14th July to 18th July"
+    ],
+    "already_purchased": 6,
+    "image_url": "https://dxk1acp76n912.cloudfront.net/images/deals/hdeal4.jpeg"
+  }
+]
