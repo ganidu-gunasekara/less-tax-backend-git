@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Query } from '@nestjs/common';
 import { HotelService } from './hotel.service';
 
 @Controller('hotel')
@@ -6,7 +6,7 @@ export class HotelController {
     constructor(private readonly hotelService: HotelService) {}
 
   @Get()
-  getAllOffers() {
-    return this.hotelService.getAllOffers();
+  getHotels(@Query('location') location?: string) {
+    return this.hotelService.getFilteredHotels(location);
   }
 }

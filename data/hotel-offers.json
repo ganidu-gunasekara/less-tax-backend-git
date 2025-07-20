@@ -3,11 +3,7 @@
     "title": "5⭐ Hotel in KANDY",
     "original_price": "45,000LKR",
     "discounted_price": "43,000LKR",
-    "countdown": {
-      "hours": "08",
-      "minutes": "46",
-      "seconds": "25"
-    },
+    "deadline": "2025-07-21T00:00:00Z",
     "description": "EXPERIENCE 5 STAR LUXURY AMIDST MISTY HILLTOPS",
     "location": "KANDY",
     "reviews": 2670,
@@ -23,11 +19,7 @@
     "title": "5⭐ Hotel in KANDY",
     "original_price": "68,000LKR",
     "discounted_price": "63,000LKR",
-    "countdown": {
-      "hours": "08",
-      "minutes": "46",
-      "seconds": "25"
-    },
+    "deadline": "2025-07-21T00:00:00Z",
     "description": "STAY 2 NIGHTS AND ENJOY A FULL CULINARY EXPERIENCE",
     "location": "KANDY",
     "reviews": 7680,
@@ -43,11 +35,7 @@
     "title": "5⭐ Hotel in GALLE",
     "original_price": "80,000LKR",
     "discounted_price": "73,000LKR",
-    "countdown": {
-      "hours": "08",
-      "minutes": "46",
-      "seconds": "25"
-    },
+    "deadline": "2025-07-21T00:00:00Z",
     "description": "STAY 3 NIGHTS , PAY FOR 2",
     "location": "KANDY",
     "reviews": 7680,
@@ -62,11 +50,7 @@
     "title": "5⭐ Hotel in GALLE",
     "original_price": "15,000LKR",
     "discounted_price": "12,000LKR",
-    "countdown": {
-      "hours": "08",
-      "minutes": "46",
-      "seconds": "25"
-    },
+    "deadline": "2025-07-21T00:00:00Z",
     "description": "3000LKR OFF INTERNATIONAL BUFFET FOR 2",
     "location": "COLOMBO",
     "reviews": 7680,

@@ -6,8 +6,14 @@ import * as fs from 'fs';
 export class HotelService {
      private readonly hotelDataPath = path.join(process.cwd(),'data', 'hotel-offers.json');
 
-  getAllOffers() {
-    const data = fs.readFileSync(this.hotelDataPath, 'utf-8');
-    return JSON.parse(data);
+  getFilteredHotels(location?: string) {
+    const raw = fs.readFileSync(this.hotelDataPath, 'utf-8');
+    const hotels = JSON.parse(raw);
+
+    if (!location) return hotels;
+
+    return hotels.filter((hotel: any) =>
+      hotel.location.toLowerCase() === location.toLowerCase()
+    );
   }
 }
